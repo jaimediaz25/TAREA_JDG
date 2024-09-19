@@ -5,13 +5,15 @@ public class funcion_1 {
         System.out.println("FUNCION 1");
     }
 
-  
     public static void funcion1() {
         System.out.println("FUNCION 1");
     }
 
-   
     public static void funcion2() {
         System.out.println("FUNCION 2");
+    }
+
+    public static void funcion3() {
+        System.out.println("FUNCION 3");
     }
 }
